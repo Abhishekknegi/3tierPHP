@@ -63,4 +63,4 @@ jobs:
           app-name: 'three-tier-frontend-app'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A55E1265AC0847DCBDB089A32066100F }}
+          publish-profile: 
