@@ -1,5 +1,5 @@
 I'll help you create a Terraform configuration for a basic three-tier architecture with minimal resources. I'll provide an example using Azure as the cloud provider, but the structure can be adapted to AWS or GCP with minor modifications.
-
+#abhishek 
  copy
 hcl
 
